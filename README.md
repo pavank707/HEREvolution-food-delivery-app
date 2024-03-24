@@ -21,6 +21,7 @@ Mobile SDKs: Utilization of HERE Mobile SDKs for Android and iOS platforms.
 GitHub: Repository hosting for version control and project management.
 Design Preview
 Below are preview images of the app design:
+https://www.figma.com/proto/44FD4MdBaJjdPV4EK7Ad4x/Untitled?node-id=77-615&starting-point-node-id=1%3A3&scaling=scale-down&t=oCZ5lp064jStgHds-1
 
 About the Team
 This project was designed by Pavan and team, participants of the HEREvolution Codefest-Hackathon.

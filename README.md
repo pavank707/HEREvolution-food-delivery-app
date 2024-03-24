@@ -22,3 +22,5 @@ GitHub: Repository hosting for version control and project management.
 Design Preview
 Below are preview images of the app design:
 
+About the Team
+This project was designed by Pavan and team, participants of the HEREvolution Codefest-Hackathon.

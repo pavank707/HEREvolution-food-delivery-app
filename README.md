@@ -13,16 +13,18 @@ Our solution focuses on developing a user-friendly mobile application that provi
 ![HERE Food Delivery App](https://github.com/pavank707/HEREvolution-food-delivery-app/assets/161462414/6f48738d-7a17-4667-aff9-eccc8f1cadc7)
 
 ## Flowchart
-![Flowchart](https://github.com/pavank707/HEREvolution-food-delivery-app/assets/161462414/fe1740e9-8b0c-4589-be7a-b91b4c9b9747)
+  ![Flowchart](https://github.com/pavank707/HEREvolution-food-delivery-app/assets/161462414/fe1740e9-8b0c-4589-be7a-b91b4c9b9747)
 
 ## App Workflow
-![App Workflow](https://github.com/pavank707/HEREvolution-food-delivery-app/assets/161462414/485b6d2f-dbe4-4844-aa07-8fed7ad67504)
+  ![App Workflow](https://github.com/pavank707/HEREvolution-food-delivery-app/assets/161462414/485b6d2f-dbe4-4844-aa07-8fed7ad67504)
 
 ## Key Features
 - Interactive map for restaurant locations and delivery routes.
 - Real-time tracking of delivery drivers.
 - Environmental impact analysis for route optimization.
 - Seamless integration with restaurant menus and ordering system.
+# APP PROTOTYPE (FIGMA DESIGN)
+   ![Add a heading](https://github.com/pavank707/HEREvolution-food-delivery-app/assets/161462414/d73726e7-4050-4038-af75-c7a324a7d15a)
 
 ## 💻 Technologies Used
 - HERE Location Services: Integration of HERE APIs for mapping, routing, and location-based services.
